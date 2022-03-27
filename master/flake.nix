@@ -11,6 +11,7 @@
   inputs.src-memlib-master.ref   = "refs/heads/master";
   inputs.src-memlib-master.owner = "khchen";
   inputs.src-memlib-master.repo  = "memlib";
+  inputs.src-memlib-master.dir   = "";
   inputs.src-memlib-master.type  = "github";
   
   inputs."winim".owner = "nim-nix-pkgs";
